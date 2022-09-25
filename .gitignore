@@ -1,0 +1,4 @@
+build/
+build-debug/
+.kdev4/
+.cache/
